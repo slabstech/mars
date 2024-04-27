@@ -1,4 +1,23 @@
 # tracker - Bhoomi
+
+- Show current distance between Mars and Earth
+  - Orbital Calculation
+- Applications for Mars
+  - Solar farm.
+  -  Air miner (CO2, nitrogen, H2O).
+  -  Water miner.
+  -  Rock miner(s) (aggregate and ore).
+  -  Fuel plant (CH4 + O2 in unlimited quantities).
+  -  Life support (interior air miner).
+  -  Heavy machinery telerobotics.
+  -  Pressure structures. Pressure tents (manufacturing, deployment, maintenance).
+  -  Surface activity suits.
+
+- CLI Menu
+  - Decision Tree - More Info
+  - Notebook - to showcase output
+    - Plot - graphs - orbit distance
+
  VR Map for Satellite Orbits
 
 Website - [https://gaganyatri.earth](https://gaganyatri.earth)
@@ -18,6 +37,12 @@ Website - [https://gaganyatri.earth](https://gaganyatri.earth)
   * Create a VR Map for Earth to Mars missions. Based on the future starship missions, 
     help to share knowledge on how the spacecrafts travel the distance between the planets.
   
+  - NASA
+    - https://pds-geosciences.wustl.edu/missions/mer/geo_mer_datasets.htm
+    - https://www.twilio.com/en-us/blog/texting-robots-on-mars-using-python-flask-nasa-apis-and-twilio-mms-html
+    - API
+      - https://api.nasa.gov/index.html
+      - 
 
 * Resources
   * https://www.spaceappschallenge.org/2023/challenges/visualize-a-space-mission-using-virtual-reality/?tab=resources
@@ -32,7 +57,14 @@ Website - [https://gaganyatri.earth](https://gaganyatri.earth)
   * https://nasa.github.io/mission-viz/RMarkdown/Elliptical_Orbit_Design.html  - Elliptical Orbit Simulator
   * https://www.asc-csa.gc.ca/eng/sciences/vection.asp - Canada Space - Vection
   * https://esa.github.io/pykep/documentation/orbitplots.html - Orbit Plots - pykep
+  * https://caseyhandmer.wordpress.com/2022/07/12/how-to-terraform-mars-for-10b-in-10-years/
+  * https://caseyhandmer.wordpress.com/2021/05/21/new-opportunities-for-space-companies/
+  * https://terraformindustries.com/
 
+- Ingenuity
+  - https://mepag.jpl.nasa.gov/reports/decadal2023-2032/MSH_whitepaper_draft_final%20copy.pdf
+- Orbits
+  - https://en.wikipedia.org/wiki/Orbital_period
 <!--
 - Build ADBS Exchange like tracker for Satellites
 - Build infrastructure with multiple redundancies for 99.9999% uptime
